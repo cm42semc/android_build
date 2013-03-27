@@ -44,6 +44,7 @@ PRODUCT_PACKAGES += \
     init \
     input \
     javax.obex \
+    javax.btobex \
     libEGL \
     libETC1 \
     libFFTEm \
